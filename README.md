@@ -341,10 +341,3 @@ sudo kill -9 <PID>
 
 Feel free to submit issues and enhancement requests!
 
-## 📜 License
-
-This script is provided as-is for educational and professional use.
-
----
-
-**Note**: These scripts are designed for AWS Ubuntu servers. Adjust security group settings and IAM roles as per your requirements.
