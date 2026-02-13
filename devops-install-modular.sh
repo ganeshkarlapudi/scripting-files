@@ -221,7 +221,7 @@ if [ "$INSTALL_JENKINS" = true ]; then
     apt-get update -y
     
     # Install Java
-    apt-get install -y fontconfig openjdk-17-jre
+    apt install fontconfig openjdk-21-jre
     
     # Install Jenkins
     apt-get install -y jenkins
